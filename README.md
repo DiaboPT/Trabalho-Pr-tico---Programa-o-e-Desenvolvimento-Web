@@ -74,4 +74,6 @@ Os alunos devem publicar o jogo online utilizando um servidor gratuito. Aqui est
 - **Como usar**: Conecte o repositório GitHub, escolha o projeto e Vercel cuidará do resto.
 - **Link**: [Vercel](https://vercel.com/)
 ----------------------------
-Ideia: 
+## **Ideia**:
+- **Point-n-click**: Terás que navegar o mundo usando o rato
+- **Quebra-cabeças**: Para resgatar o tesouro terás que resolver um quebra-cabeças (que será sobre o próprio tesouro)
