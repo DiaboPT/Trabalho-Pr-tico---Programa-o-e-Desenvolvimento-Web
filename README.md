@@ -76,4 +76,6 @@ Os alunos devem publicar o jogo online utilizando um servidor gratuito. Aqui est
 ----------------------------
 ## **Ideia**:
 - **Point-n-click**: Terás que navegar o mundo usando o rato
-- **Quebra-cabeças**: Para resgatar o tesouro terás que resolver um quebra-cabeças (que será sobre o próprio tesouro)
+- **Quebra-cabeças**: Para resgatar o tesouro terás que resolver um quebra-cabeças (que será sobre o próprio tesouro), Cada artefato revela a história e o significado cultural por trás dele, ensinando ao jogador sobre tradições e patrimônios globais.
+- **Tesouros**: O player passa por salas em 2d e cada sala tematica de paises tem que fazer um engima pra passar pra proxima sala ate chegar ao final.
+
